@@ -34,5 +34,5 @@ function greet(timeString)
 }
 function displayMessage(str) {
   const str1=document.getElementById("greeting").textcontent=str;
-
+return
 }
