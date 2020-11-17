@@ -33,6 +33,5 @@ function greet(timeString)
   
 }
 function displayMessage(str) {
-  const str1=document.getElementById("greeting").innerHTML=str;
-
-  alert(str);}
+  const str1=document.getElementById("greeting").textcontent=str;
+}
